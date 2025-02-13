@@ -8,17 +8,18 @@ height: 100vh;
 .logo-container{
     /* width: 10%; */
     position: absolute;
-    left: 0;
-    top: 0;
-    padding-top: 10px;
-    padding-left: 10px;
+    margin-right: 0;
+    bottom: 0px;
+    right: 0px;
+    /* padding-top: 10px;*/
+    /*padding-left: 10px;*/
 }
 
 .icon-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto;
-    gap: 10px;
+    gap: 20px;
     /* width: 15%; */
     position: absolute;
     right: 0;
